@@ -11,7 +11,7 @@ This repository provides instructions for installing and using OpenAI's Whisper 
 - Best practices for performance and efficiency
 
 ## Installation
-Follow the detailed setup instructions in [whisper_on_apple_silicon_guide.md].
+Follow the detailed setup instructions in [whisper_on_apple_silicon_guide.md](whisper_on_apple_silicon_guide.md).
 
 ## Contributions
 We welcome contributions! See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for details on how to contribute.
